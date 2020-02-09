@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Rob Key &#8211; deadbadger.net</title>
+	<atom:link href="/tag/rob-key/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>in a state of advanced decomposition</description>
+	<lastBuildDate>Thu, 12 Jun 2014 07:55:52 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<item>
+		<title>Selection Policy &#8211; a Plea</title>
+		<link>/2009/06/selection-policy-a-plea/</link>
+				<comments>/2009/06/selection-policy-a-plea/#comments</comments>
+				<pubDate>Fri, 05 Jun 2009 12:08:48 +0000</pubDate>
+		<dc:creator><![CDATA[Dead Badger]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[cricket]]></category>
+		<category><![CDATA[letters]]></category>
+		<category><![CDATA[Rob Key]]></category>
+
+		<guid isPermaLink="false">/?p=35</guid>
+				<description><![CDATA[<p>I held this back because King Cricket gets first dibs on Rob Key-related things. Unfortunately Rob bided his time on an England recall for a bit longer than any of us mortals might&#8217;ve hoped, but The Day is finally here. Sort of. He played! Sent to England cricket coach Peter Moores on May 1, 2008. <a href="/2009/06/selection-policy-a-plea/#more-35" class="more-link">Continue reading &rarr;</a></p>
+]]></description>
+			<p>I held this back because King Cricket gets first dibs on Rob Key-related things. Unfortunately Rob bided his time on an England recall for a bit longer than any of us mortals might&#8217;ve hoped, but The Day is finally here. Sort of. He played! Sent to England cricket coach Peter Moores on May 1, 2008. <a href="/2009/06/selection-policy-a-plea/#more-35" class="more-link">Continue reading &rarr;</a></p>
+					<content:encoded><![CDATA[<p>I held this back because King Cricket gets first dibs on Rob Key-related things. Unfortunately Rob bided his time on an England recall for a bit longer than any of us mortals might&#8217;ve hoped, but The Day is finally here. Sort of. He played! Sent to England cricket coach Peter Moores on May 1, 2008. <a href="/2009/06/selection-policy-a-plea/#more-35" class="more-link">Continue reading &rarr;</a></p>
+]]></content:encoded>
+							<wfw:commentRss>/2009/06/selection-policy-a-plea/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+							</item>
+	</channel>
+</rss>

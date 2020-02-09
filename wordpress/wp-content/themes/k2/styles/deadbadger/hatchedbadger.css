@@ -1,0 +1,253 @@
+/*
+	CSS files kept in the 'styles' directory can be used to
+	customize your K2 installation without having to mess
+	with the core K2 files. This in turn makes it easier to
+	upgrade to new K2 version as well as debug any problems
+	that might occur.
+
+	You select styles from the K2 Options page in the
+	'Presentation' section of your WordPress administration.
+
+	For more information on how to use custom styles:
+		http://code.google.com/p/kaytwo/wiki/K2CSSandCustomCSS
+	
+	Author Name	: Simon Coffey
+	Author Site	: www.deadbadger.net
+	Style Name	: Hatched Badger
+	Style URI	: 
+	Version		: 1.0
+	Comments	:
+*/
+
+html {
+	background: transparent;
+}
+
+body {
+	background-color: #ffffff !important;
+}
+
+#page {
+	width: 1000px;
+	padding-left: 150px;
+	padding-right: 150px;
+	background-image: url('/wordpress/wp-content/themes/k2/styles/deadbadger/images/hatched_bg.jpg');
+	background-color: none;
+	background-repeat: repeat-y;
+	border: none;
+}
+
+#header {
+	background-color: #fff;
+}
+
+#header h1 a {
+	width: 700px;
+	height: 150px;
+	display: block;
+	background: url(/wordpress/wp-content/themes/k2/styles/deadbadger/images/headerimage.gif) no-repeat top left;
+}
+
+#header h1 a span { display: none; }
+
+#footer {
+	border-top: 2px solid #aaa;
+	background-color: #ddd;
+}
+
+.columns-one #page {
+  width: 700px;
+}
+.columns-one #primary {
+  width: 640px;
+}
+
+.columns-one .secondary {
+  width: 310px;
+}
+
+#page div#header {
+  width: 700px;
+  height: 150px;
+/*  background-color: white; */
+  background-image: url('/wordpress/wp-content/themes/k2/styles/deadbadger/images/centrebanner.png');
+  background-position: 0 0;
+  background-repeat: no-repeat;
+}
+
+#page ul.menu {
+  display: none;
+  text-align: center;
+}
+
+#page ul.menu li.page-item2 {
+}
+
+#page .blog-title, #page .description {
+  display: none;
+}
+
+.entry-title {
+  font-weight: 200;
+  letter-spacing: 0px;
+  font-family: Palatino, Palatino Linotype, Book Antiqua, Serif;
+/*  letter-spacing: -1px; */
+}
+
+#page {
+	/* The entire design is contained within the 'page' id */
+	}
+	
+#header {
+	/* Contains the H1 and menu */
+	}
+	
+#primary {
+	/* Contains the main column */
+	}
+
+#primary .entry-content img {
+	margin: 0 5px;
+	padding: 6px;
+	border: 1px solid #ccc;
+	max-width: 100%;
+	}
+
+.content {
+	background: none;
+}
+
+.comments {
+	clear: both;
+}
+
+.entry-meta .entry-tags {
+	clear: both;
+	float: left;
+}
+
+.entry-foot {
+	clear: both;
+}
+
+.entry-comments {
+	clear: both;
+	float: right;
+}
+
+#nav-below {
+	padding-top: 2em;
+	clear: both;
+}
+
+#primary img.aligncenter, img[align="center"] {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	}
+	
+#primary img.alignright, img[align="right"] {
+	padding: 6px !important;
+	margin:  0.3em 0 0.3em 1.5em;
+	display: inline;
+	}
+
+#primary img.alignleft, img[align="left"] {
+	padding: 5px;
+	margin: 0.3em 1.5em 0.3em 0;
+	display: inline;
+	}
+
+#primary .entry-content .wp-caption img {
+	margin: 0;
+	padding: 0;
+	border: none;
+	}
+
+/* Disable WP's ridiculous hover border for captioned images */
+.wp-caption:hover {
+	border-top-color: #dddddd;
+	border-left-color: #dddddd;
+	border-right-color: #dddddd;
+	border-bottom-color: #dddddd;
+	border-top-width: 1px;
+	border-left-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-left-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	padding-top: 8px;
+	padding-right: 3px;
+	padding-bottom: 3px;
+	padding-left: 3px;
+	}
+
+.wp-caption {
+	padding-top: 8px;
+	}
+
+.wp-caption[class~="alignright"] {
+	margin-left: 15px;
+}
+
+.wp-caption[class~="alignleft"] {
+	margin-right: 15px;
+}
+
+.hentry {
+  margin-bottom: 30px;
+}
+
+.entry-content {
+	/* The meat and potatoes of every entry */
+	font-family: Verdana, Arial, Sans-Serif;
+	font-size: 12px;
+	}
+
+.comment-content {
+	font-family: Verdana, Arial, Sans-Serif;
+	font-family: 12px;
+	}
+
+div.post {
+	padding-top: 1em;
+	clear: both;
+}
+
+.post hr {
+	display: block;
+	border-left-color: #000000;
+	border-right-color: #000000;
+	border-bottom-color: #000000;
+	border-left-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-top-color: #cccccc;
+	border-top-width: 1px;
+	border-top-style: solid;
+	text-align: center;
+	height: 0px;
+}
+
+.clearfloats {
+	clear: both;
+}
+
+#sidebar-1 {
+	/* The first sidebar */
+	}
+
+#sidebar-2 {
+	/* The second sidebar */
+	}
+
+.secondary {
+	/* Contains both sidebars */
+	}

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>robots suck &#8211; deadbadger.net</title>
+	<atom:link href="/tag/robots-suck/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>in a state of advanced decomposition</description>
+	<lastBuildDate>Thu, 12 Jun 2014 07:56:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<item>
+		<title>Robots suck</title>
+		<link>/2007/03/robots-suck/</link>
+				<pubDate>Sat, 17 Mar 2007 22:03:11 +0000</pubDate>
+		<dc:creator><![CDATA[Dead Badger]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[mick hucknall]]></category>
+		<category><![CDATA[robotics]]></category>
+		<category><![CDATA[robots suck]]></category>
+
+		<guid isPermaLink="false">/?p=12</guid>
+				<description><![CDATA[<p>Robots suck. You can take my word for it; I&#8217;m a roboticist. That sucks, too. The very word roboticist derives from the Sanskrit phrase “rhob dh&#8217;syss”, lit. “tilter at windmills”. A roboticist&#8217;s life oscillates continually between fervid imaginings of what some idealised, data-rich robot might conceivably do, and despair at the seemingly ineluctable difficulty of <a href="/2007/03/robots-suck/#more-12" class="more-link">Continue reading &rarr;</a></p>
+]]></description>
+			<p>Robots suck. You can take my word for it; I&#8217;m a roboticist. That sucks, too. The very word roboticist derives from the Sanskrit phrase “rhob dh&#8217;syss”, lit. “tilter at windmills”. A roboticist&#8217;s life oscillates continually between fervid imaginings of what some idealised, data-rich robot might conceivably do, and despair at the seemingly ineluctable difficulty of <a href="/2007/03/robots-suck/#more-12" class="more-link">Continue reading &rarr;</a></p>
+					<content:encoded><![CDATA[<p>Robots suck. You can take my word for it; I&#8217;m a roboticist. That sucks, too. The very word roboticist derives from the Sanskrit phrase “rhob dh&#8217;syss”, lit. “tilter at windmills”. A roboticist&#8217;s life oscillates continually between fervid imaginings of what some idealised, data-rich robot might conceivably do, and despair at the seemingly ineluctable difficulty of <a href="/2007/03/robots-suck/#more-12" class="more-link">Continue reading &rarr;</a></p>
+]]></content:encoded>
+										</item>
+	</channel>
+</rss>

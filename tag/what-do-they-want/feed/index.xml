@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>what do they *want*? &#8211; deadbadger.net</title>
+	<atom:link href="/tag/what-do-they-want/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>in a state of advanced decomposition</description>
+	<lastBuildDate>Thu, 12 Jun 2014 07:56:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<item>
+		<title>Hello.</title>
+		<link>/2008/07/hello/</link>
+				<pubDate>Wed, 23 Jul 2008 22:25:41 +0000</pubDate>
+		<dc:creator><![CDATA[Dead Badger]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[howler monkeys]]></category>
+		<category><![CDATA[what do they *want*?]]></category>
+
+		<guid isPermaLink="false">/?p=112</guid>
+				<description><![CDATA[<p>::ring:: Me: &#8220;Hello?&#8221; Them: &#8220;Hello.&#8221; Me: &#8220;Yes, hello.&#8221; Them: &#8220;Hello?&#8221; Me: &#8220;Yes, we&#8217;ve established that.&#8221; Them: &#8220;As&#8217;salaamu aleikum?&#8221; Me: &#8220;That&#8217;s pretty much &#8216;hello&#8217; again, isn&#8217;t it? Are you going to tell me who&#8217;s calling?&#8221; Them: *click* This happens about five times a week despite my resolute refusal to become a Mr Islam (about once every <a href="/2008/07/hello/#more-112" class="more-link">Continue reading &rarr;</a></p>
+]]></description>
+			<p>::ring:: Me: &#8220;Hello?&#8221; Them: &#8220;Hello.&#8221; Me: &#8220;Yes, hello.&#8221; Them: &#8220;Hello?&#8221; Me: &#8220;Yes, we&#8217;ve established that.&#8221; Them: &#8220;As&#8217;salaamu aleikum?&#8221; Me: &#8220;That&#8217;s pretty much &#8216;hello&#8217; again, isn&#8217;t it? Are you going to tell me who&#8217;s calling?&#8221; Them: *click* This happens about five times a week despite my resolute refusal to become a Mr Islam (about once every <a href="/2008/07/hello/#more-112" class="more-link">Continue reading &rarr;</a></p>
+					<content:encoded><![CDATA[<p>::ring:: Me: &#8220;Hello?&#8221; Them: &#8220;Hello.&#8221; Me: &#8220;Yes, hello.&#8221; Them: &#8220;Hello?&#8221; Me: &#8220;Yes, we&#8217;ve established that.&#8221; Them: &#8220;As&#8217;salaamu aleikum?&#8221; Me: &#8220;That&#8217;s pretty much &#8216;hello&#8217; again, isn&#8217;t it? Are you going to tell me who&#8217;s calling?&#8221; Them: *click* This happens about five times a week despite my resolute refusal to become a Mr Islam (about once every <a href="/2008/07/hello/#more-112" class="more-link">Continue reading &rarr;</a></p>
+]]></content:encoded>
+										</item>
+	</channel>
+</rss>

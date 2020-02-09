@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Solidarity	</title>
+	<atom:link href="/2008/10/solidarity/feed/" rel="self" type="application/rss+xml" />
+	<link>/2008/10/solidarity/</link>
+	<description>in a state of advanced decomposition</description>
+	<lastBuildDate>Thu, 12 Jun 2014 07:56:06 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+			<item>
+				<title>
+				By: Dead Badger				</title>
+				<link>/2008/10/solidarity/comment-page-1/#comment-333</link>
+		<dc:creator><![CDATA[Dead Badger]]></dc:creator>
+		<pubDate>Wed, 22 Oct 2008 14:58:31 +0000</pubDate>
+		<guid isPermaLink="false">/?p=132#comment-333</guid>
+					<description><![CDATA[Yeah, but the student office told me it probably wouldn&#039;t pass the viva.]]></description>
+		<content:encoded><![CDATA[<p>Yeah, but the student office told me it probably wouldn&#8217;t pass the viva.</p>
+]]></content:encoded>
+						</item>
+						<item>
+				<title>
+				By: Jaspreet				</title>
+				<link>/2008/10/solidarity/comment-page-1/#comment-328</link>
+		<dc:creator><![CDATA[Jaspreet]]></dc:creator>
+		<pubDate>Mon, 20 Oct 2008 18:03:30 +0000</pubDate>
+		<guid isPermaLink="false">/?p=132#comment-328</guid>
+					<description><![CDATA[Very good! thought about submitting it some places??]]></description>
+		<content:encoded><![CDATA[<p>Very good! thought about submitting it some places??</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>

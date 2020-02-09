@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>robots &#8211; deadbadger.net</title>
+	<atom:link href="/tag/robots/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>in a state of advanced decomposition</description>
+	<lastBuildDate>Thu, 12 Jun 2014 07:56:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<item>
+		<title>How work robot?</title>
+		<link>/2006/10/how-work-robot/</link>
+				<pubDate>Wed, 04 Oct 2006 12:03:37 +0000</pubDate>
+		<dc:creator><![CDATA[Dead Badger]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[robots]]></category>
+		<category><![CDATA[web]]></category>
+
+		<guid isPermaLink="false">http://shadow.unitedhosting.co.uk/~admin107/?p=4</guid>
+				<description><![CDATA[<p>I&#8217;m going to stop apologising at the start of these entries, favouring instead a brash unashamedness. Thus, rejoice! This entry is both dorky and self-absorbed. For today I found out how to find what people searched for before finding my site. Thus I discover that I am something of a guru for those curious as <a href="/2006/10/how-work-robot/#more-4" class="more-link">Continue reading &rarr;</a></p>
+]]></description>
+			<p>I&#8217;m going to stop apologising at the start of these entries, favouring instead a brash unashamedness. Thus, rejoice! This entry is both dorky and self-absorbed. For today I found out how to find what people searched for before finding my site. Thus I discover that I am something of a guru for those curious as <a href="/2006/10/how-work-robot/#more-4" class="more-link">Continue reading &rarr;</a></p>
+					<content:encoded><![CDATA[<p>I&#8217;m going to stop apologising at the start of these entries, favouring instead a brash unashamedness. Thus, rejoice! This entry is both dorky and self-absorbed. For today I found out how to find what people searched for before finding my site. Thus I discover that I am something of a guru for those curious as <a href="/2006/10/how-work-robot/#more-4" class="more-link">Continue reading &rarr;</a></p>
+]]></content:encoded>
+										</item>
+	</channel>
+</rss>

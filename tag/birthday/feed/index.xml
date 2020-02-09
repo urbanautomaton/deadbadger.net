@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>birthday &#8211; deadbadger.net</title>
+	<atom:link href="/tag/birthday/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>in a state of advanced decomposition</description>
+	<lastBuildDate>Thu, 12 Jun 2014 07:56:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<item>
+		<title>Ageing by rail</title>
+		<link>/2006/11/ageing-by-rail/</link>
+				<pubDate>Tue, 14 Nov 2006 22:53:59 +0000</pubDate>
+		<dc:creator><![CDATA[Dead Badger]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[birthday]]></category>
+		<category><![CDATA[deep ruminations]]></category>
+
+		<guid isPermaLink="false">/?p=331</guid>
+				<description><![CDATA[<p>The year is 2006. The month, November. The time, 16.55 (expected). I sit in my lavishly downholstered South West Trains bucket seat, accumulating other people&#8217;s dandruff from the headrest, and wonder how on earth my neighbour manages to snore, operate his Blackberry and emit a sort of whistling sound from an unknown orifice all at <a href="/2006/11/ageing-by-rail/#more-331" class="more-link">Continue reading &rarr;</a></p>
+]]></description>
+			<p>The year is 2006. The month, November. The time, 16.55 (expected). I sit in my lavishly downholstered South West Trains bucket seat, accumulating other people&#8217;s dandruff from the headrest, and wonder how on earth my neighbour manages to snore, operate his Blackberry and emit a sort of whistling sound from an unknown orifice all at <a href="/2006/11/ageing-by-rail/#more-331" class="more-link">Continue reading &rarr;</a></p>
+					<content:encoded><![CDATA[<p>The year is 2006. The month, November. The time, 16.55 (expected). I sit in my lavishly downholstered South West Trains bucket seat, accumulating other people&#8217;s dandruff from the headrest, and wonder how on earth my neighbour manages to snore, operate his Blackberry and emit a sort of whistling sound from an unknown orifice all at <a href="/2006/11/ageing-by-rail/#more-331" class="more-link">Continue reading &rarr;</a></p>
+]]></content:encoded>
+										</item>
+	</channel>
+</rss>
